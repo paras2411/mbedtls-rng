@@ -19,8 +19,8 @@ All mbed-tls modules will have their respective rust module in this single libra
 
 # Contributors
 
-* Raj Jha
 * Paras Lohani
+* Raj Jha
 
 # Entropy (RNG module)
 
